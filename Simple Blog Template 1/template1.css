@@ -35,3 +35,23 @@ body
     padding: 40px;
     border-bottom: 1px solid rgba(0,0,0,0.05);
 }
+
+.blog-heading
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
+
+.blog-heading span
+{
+    color: red;
+}
+
+.blog-heading h3
+{
+    font-size: 2.4rem;
+    color:black;
+    font-weight: 600;
+}
