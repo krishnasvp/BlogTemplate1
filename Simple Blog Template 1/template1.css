@@ -64,3 +64,11 @@ body
     margin: 20px 0px;
     flex-wrap: wrap;
 }
+
+.blog-box
+{
+    width: 350px;
+    background-color: white;
+    border: 1px solid white;
+    margin: 20px;
+}
