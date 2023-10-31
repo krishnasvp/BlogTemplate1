@@ -86,3 +86,16 @@ body
     object-fit:cover;
     object-position:center;
 }
+
+.blog-text
+{
+    padding:30px;
+    display:flex;
+    flex-direction: column;
+}
+
+.blog-text span
+{
+    color: red;
+    font-size: 0.9rem;
+}
