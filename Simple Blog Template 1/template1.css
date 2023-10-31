@@ -99,3 +99,10 @@ body
     color: red;
     font-size: 0.9rem;
 }
+
+.blog-box .blog-title
+{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: darkblue;
+}
