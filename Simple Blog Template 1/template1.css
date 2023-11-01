@@ -107,6 +107,19 @@ body
     color: darkblue;
 }
 
+.blog-text p{
+    color:white;
+    font-size: 0.9rem;
+    display:-webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    margin:20px 0px;
+}
+
+
+
 .blog-box .blog-title :hover
 {
     color:white;
