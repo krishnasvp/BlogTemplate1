@@ -118,6 +118,10 @@ body
     margin:20px 0px;
 }
 
+.blog-text a{
+    color:black;
+}
+
 
 
 .blog-box .blog-title :hover
