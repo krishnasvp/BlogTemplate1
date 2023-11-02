@@ -122,10 +122,14 @@ body
     color:black;
 }
 
-
-
 .blog-box .blog-title :hover
 {
     color:white;
+    transition: all ease 0.3s;
+}
+
+.blog-text a:hover
+{
+    color: red;
     transition: all ease 0.3s;
 }
