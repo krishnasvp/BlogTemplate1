@@ -108,7 +108,7 @@ body
 }
 
 .blog-text p{
-    color:white;
+    color:grey;
     font-size: 0.9rem;
     display:-webkit-box;
     -webkit-line-clamp: 3;
